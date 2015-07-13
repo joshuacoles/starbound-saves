@@ -1,0 +1,1000 @@
+Start logging at: 2015-07-12 08:47:54.691
+[08:47:54.691] Info: Star::Root using bootstrap file '/Users/joshuacoles/Library/Application Support/Steam/SteamApps/common/Starbound - Unstable/osx/sbboot.config'
+[08:47:54.691] Info: Star::Root using storage directory '/Users/joshuacoles/Library/Application Support/Steam/SteamApps/common/Starbound - Unstable/giraffe_storage'
+[08:47:54.691] Info: Preparing Star::Root...
+[08:47:54.691] Info: No modding directory found.
+[08:47:54.691] Info: Loading Configuration with config file: 'starbound.config'
+[08:47:54.691] Info: Creating default Star::Configuration
+[08:47:54.691] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[08:47:54.692] Info: Initializing Star::Root with 2 assets sources
+[08:47:54.692] Info: Done preparing Star::Root.
+[08:47:54.692] Info: Client Version 'Beta v. Spirited Giraffe - Update 5' Revision: db4accc2451c34d38ae6d3f8649f8e06a6507bd2 Protocol: 679
+[08:47:54.692] Info: Initialized SDL
+[08:47:54.696] Info: Initialized SDL Video
+[08:47:55.121] Info: Initialized SDL Joystick
+[08:47:55.124] Info: Initialized SDL Sound
+[08:47:55.156] Info: Opened default audio device with 44khz / 16 bit stereo audio, 2048 sample size buffer
+[08:47:55.156] Info: Loading Assets
+[08:47:55.156] Info: Loading Star::Assets from: '../assets/packed.pak'
+[08:47:55.156] Info: Loading Star::Assets from: '../assets/user'
+[08:47:55.366] Info: Done loading Assets
+[08:47:55.367] Info: Fully loading Star::Root...
+[08:47:55.367] Info: Loading NameGenerator
+[08:47:55.367] Info: Loading ObjectDatabase
+[08:47:55.367] Info: Loading PlantDatabase
+[08:47:55.367] Info: Loading ProjectileDatabase
+[08:47:55.367] Info: Loading MonsterDatabase
+[08:47:55.367] Info: Loading NpcDatabase
+[08:47:55.368] Info: Loading PlayerFactory
+[08:47:55.368] Info: Loading EntityFactory
+[08:47:55.368] Info: Initializing SDL Window
+[08:47:55.370] Info: Done loading PlayerFactory
+[08:47:55.370] Info: Loading ItemDatabase
+[08:47:55.375] Info: Done loading NameGenerator
+[08:47:55.375] Info: Loading MaterialDatabase
+[08:47:55.375] Info: Loading ParticleDatabase
+[08:47:55.434] Info: Done loading ParticleDatabase
+[08:47:55.455] Info: OpenGL version: '2.1 NVIDIA-10.2.7 310.41.25f01' vendor: 'NVIDIA Corporation' renderer: 'NVIDIA GeForce GTX 680MX OpenGL Engine' shader: '1.20'
+[08:47:55.455] Info: Created initial window 1000x600
+[08:47:55.458] Info: Renderer initialized
+[08:47:55.513] Info: Done loading PlantDatabase
+[08:47:55.513] Info: Loading TerrainDatabase
+[08:47:55.526] Info: Done loading TerrainDatabase
+[08:47:55.527] Info: Loading BiomeDatabase
+[08:47:55.529] Info: Done loading NpcDatabase
+[08:47:55.529] Info: Loading LiquidsDatabase
+[08:47:55.649] Info: Done loading MonsterDatabase
+[08:47:55.649] Info: Loading StatusEffectDatabase
+[08:47:55.669] Info: Done loading ProjectileDatabase
+[08:47:55.669] Info: Loading DamageDatabase
+[08:47:55.675] Info: Done loading BiomeDatabase
+[08:47:55.675] Info: Loading EffectSourceDatabase
+[08:47:55.690] Info: Done loading EffectSourceDatabase
+[08:47:55.690] Info: Loading FunctionDatabase
+[08:47:55.692] Info: Done loading StatusEffectDatabase
+[08:47:55.692] Info: Loading TreasureDatabase
+[08:47:55.697] Info: Done loading FunctionDatabase
+[08:47:55.697] Info: Loading DungeonDefinitions
+[08:47:55.767] Info: Done loading MaterialDatabase
+[08:47:55.768] Info: Done loading LiquidsDatabase
+[08:47:55.768] Info: Loading EmoteProcessor
+[08:47:55.768] Info: Loading SpeciesDatabase
+[08:47:55.768] Info: Done loading EmoteProcessor
+[08:47:55.768] Info: Loading ImageMetadataDatabase
+[08:47:55.768] Info: Done loading ImageMetadataDatabase
+[08:47:55.768] Info: Loading VersioningDatabase
+[08:47:55.769] Info: Done loading VersioningDatabase
+[08:47:55.769] Info: Loading QuestTemplateDatabase
+[08:47:55.783] Info: Done loading QuestTemplateDatabase
+[08:47:55.783] Info: Loading AiDatabase
+[08:47:55.788] Info: Done loading TreasureDatabase
+[08:47:55.788] Info: Loading TechDatabase
+[08:47:55.806] Info: Done loading TechDatabase
+[08:47:55.806] Info: Loading CodexDatabase
+[08:47:55.807] Info: Done loading SpeciesDatabase
+[08:47:55.807] Info: Done loading AiDatabase
+[08:47:55.842] Info: Done loading CodexDatabase
+[08:47:55.896] Info: Done loading DamageDatabase
+[08:47:55.917] Info: Done loading ObjectDatabase
+[08:47:55.917] Info: Done loading EntityFactory
+[08:48:00.278] Info: Renderer destroyed
+[08:48:00.278] Info: Initializing SDL Window
+[08:48:00.392] Info: OpenGL version: '2.1 NVIDIA-10.2.7 310.41.25f01' vendor: 'NVIDIA Corporation' renderer: 'NVIDIA GeForce GTX 680MX OpenGL Engine' shader: '1.20'
+[08:48:00.392] Info: Re-created window 2560x1327
+[08:48:00.393] Info: Renderer initialized
+[08:48:01.861] Info: Done loading DungeonDefinitions
+[08:48:02.609] Info: Done loading ItemDatabase
+[08:48:02.610] Info: Done fully loading Star::Root
+[08:48:02.624] Info: Renderer destroyed
+[08:48:02.624] Info: Creating player storage directory
+[08:48:02.977] Info: Creating default Star::Configuration
+[08:48:02.977] Info: Creating default Star::Configuration
+[08:48:02.989] Info: Renderer initialized
+[08:48:04.699] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[08:48:49.633] Info: Renderer destroyed
+[08:48:49.638] Info: UniverseServer: Creating universe storage directory
+[08:48:49.638] Info: UniverseServer: Acquiring universe lock file
+[08:48:49.640] Info: UniverseServer: Loading settings
+[08:48:49.640] Info: UniverseServer: Finding starter world
+[08:48:53.638] Info: UniverseServer: Creating celestial world 843699991:-231787319:-284486835:8:4 
+[08:48:53.716] Info: Placing dungeon naturalcave
+[08:48:53.716] Info: Generating dungeon naturalcave (NOT FORCED)
+[08:48:53.718] Info: Placing dungeon at (782, 900)
+[08:48:53.884] Warn: Failed to place dungeon object: woodencrate2 direction: 0 position: (776, 755)
+[08:48:53.884] Warn: Failed to place dungeon object: woodencrate1 direction: 1 position: (779, 755)
+[08:48:54.866] Info: UniverseServer: Starting UniverseServer with UUID: f53348a1384999b0cebd16c7bf878b07
+[08:48:54.871] Info: UniverseServer: Logged in player 'Teica' locally
+[08:48:54.871] Info: UniverseServer: Logged in account '<anonymous>' as player 'Teica' from address local
+[08:48:54.881] Info: UniverseServer: Spawning player at ship
+[08:48:54.881] Info: UniverseServer: Client 'Teica' <1> (local) connected
+[08:48:54.881] Info: UniverseClient: Joined server as client 1
+[08:48:54.912] Info: Creating default Star::Configuration
+[08:48:54.912] Info: Creating default Star::Configuration
+[08:48:54.939] Info: Renderer initialized
+[08:49:04.906] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[08:49:05.010] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[08:49:39.967] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[08:49:40.207] Info: Client received world stop packet, leaving: Removed
+[08:49:50.302] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[08:49:50.405] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:54:14.506] Info: Renderer destroyed
+[08:54:14.507] Info: UniverseClient: Client disconnecting...
+[08:54:14.519] Info: Client received world stop packet, leaving: Removed
+[08:54:14.520] Info: UniverseServer: Client 'Teica' <1> (local) disconnected
+[08:54:14.624] Info: UniverseServer: Stopping UniverseServer
+[08:54:14.856] Info: Renderer initialized
+[09:17:27.822] Info: Renderer destroyed
+[09:17:27.828] Info: UniverseServer: Acquiring universe lock file
+[09:17:27.829] Info: UniverseServer: Loading settings
+[09:17:27.831] Info: UniverseServer: Finding starter world
+[09:17:27.831] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[09:17:28.015] Info: UniverseServer: Starting UniverseServer with UUID: f53348a1384999b0cebd16c7bf878b07
+[09:17:28.020] Info: UniverseServer: Logged in player 'Teica' locally
+[09:17:28.020] Info: UniverseServer: Logged in account '<anonymous>' as player 'Teica' from address local
+[09:17:28.088] Info: UniverseServer: Reviving player at CelestialWorld:843699991:-231787319:-284486835:8:4
+[09:17:28.088] Info: UniverseClient: Joined server as client 1
+[09:17:28.103] Info: Creating default Star::Configuration
+[09:17:28.103] Info: Creating default Star::Configuration
+[09:17:28.118] Info: Renderer initialized
+[09:17:28.315] Info: UniverseServer: Client 'Teica' <1> (local) connected
+[09:17:28.458] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:17:38.709] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[09:17:38.813] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:21:40.060] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:21:40.501] Info: Client received world stop packet, leaving: Removed
+[09:21:50.539] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[09:21:50.643] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[09:21:54.498] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[09:21:54.713] Info: Client received world stop packet, leaving: Removed
+[09:22:04.760] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[09:22:04.865] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:22:38.974] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:22:39.519] Info: Client received world stop packet, leaving: Removed
+[09:22:49.549] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[09:22:49.655] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[09:24:12.011] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[09:24:12.236] Info: Client received world stop packet, leaving: Removed
+[09:24:22.274] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[09:24:22.378] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:25:16.340] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[09:31:11.598] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[09:31:16.601] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[09:58:41.838] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:58:42.373] Info: Client received world stop packet, leaving: Removed
+[09:58:47.243] Info: Client received world stop packet, leaving: Removed
+[09:58:57.292] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[09:58:57.396] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[10:09:10.621] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[10:09:11.180] Info: Client received world stop packet, leaving: Removed
+[10:09:21.246] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[10:09:21.347] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[10:12:26.907] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[10:12:27.231] Info: Client received world stop packet, leaving: Removed
+[10:12:37.304] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[10:12:37.408] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[10:20:13.698] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[10:20:18.702] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[10:23:33.876] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[10:23:34.427] Info: Client received world stop packet, leaving: Removed
+[10:23:38.854] Info: Client received world stop packet, leaving: Removed
+[10:23:48.881] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[10:23:48.981] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[10:37:37.786] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[10:37:38.216] Info: Client received world stop packet, leaving: Removed
+[10:37:41.281] Info: Client received world stop packet, leaving: Removed
+[10:37:51.313] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[10:37:51.415] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[11:21:21.779] Info: Renderer destroyed
+[11:21:21.781] Info: UniverseClient: Client disconnecting...
+[11:21:21.851] Info: Client received world stop packet, leaving: Removed
+[11:21:21.852] Info: UniverseServer: Client 'Teica' <1> (local) disconnected
+[11:21:21.956] Info: UniverseServer: Stopping UniverseServer
+[11:21:22.149] Info: Renderer initialized
+[12:03:58.760] Info: Renderer destroyed
+[12:03:58.778] Info: UniverseServer: Acquiring universe lock file
+[12:03:58.780] Info: UniverseServer: Loading settings
+[12:03:58.781] Info: UniverseServer: Finding starter world
+[12:03:58.781] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[12:03:58.937] Info: UniverseServer: Starting UniverseServer with UUID: f53348a1384999b0cebd16c7bf878b07
+[12:03:58.942] Info: UniverseServer: Logged in player 'Teica' locally
+[12:03:58.942] Info: UniverseServer: Logged in account '<anonymous>' as player 'Teica' from address local
+[12:03:59.022] Info: UniverseServer: Reviving player at CelestialWorld:843699991:-231787319:-284486835:8:4
+[12:03:59.022] Info: UniverseClient: Joined server as client 1
+[12:03:59.035] Info: Creating default Star::Configuration
+[12:03:59.035] Info: Creating default Star::Configuration
+[12:03:59.051] Info: Renderer initialized
+[12:03:59.266] Info: UniverseServer: Client 'Teica' <1> (local) connected
+[12:03:59.311] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[12:04:09.635] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[12:04:09.739] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[12:14:19.636] Info: Chat: <server> Insufficient priviledges to do the time warp again.
+[12:14:46.573] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[12:14:47.211] Info: Client received world stop packet, leaving: Removed
+[12:14:50.280] Info: Client received world stop packet, leaving: Removed
+[12:15:00.239] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[12:15:00.349] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[12:38:06.730] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[12:38:07.299] Info: Client received world stop packet, leaving: Removed
+[12:38:11.702] Info: Client received world stop packet, leaving: Removed
+[12:38:21.734] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[12:38:21.846] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[12:39:20.152] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[12:39:20.802] Info: Client received world stop packet, leaving: Removed
+[12:39:24.492] Info: Client received world stop packet, leaving: Removed
+[12:39:34.549] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[12:39:34.653] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[12:54:40.631] Info: Chat: <server> No such command suiicide
+[12:54:49.488] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[12:54:50.124] Info: Client received world stop packet, leaving: Removed
+[12:54:53.890] Info: Client received world stop packet, leaving: Removed
+[12:55:03.968] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[12:55:04.071] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[12:58:46.171] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[12:58:46.728] Info: Client received world stop packet, leaving: Removed
+[12:58:50.872] Info: Client received world stop packet, leaving: Removed
+[12:59:00.891] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[12:59:00.999] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[13:10:04.906] Info: Renderer destroyed
+[13:10:04.907] Info: UniverseClient: Client disconnecting...
+[13:10:04.999] Info: Client received world stop packet, leaving: Removed
+[13:10:05.000] Info: UniverseServer: Client 'Teica' <1> (local) disconnected
+[13:10:05.103] Info: UniverseServer: Stopping UniverseServer
+[13:10:05.382] Info: Renderer initialized
+[14:06:30.395] Info: Renderer destroyed
+[14:06:30.416] Info: UniverseServer: Acquiring universe lock file
+[14:06:30.417] Info: UniverseServer: Loading settings
+[14:06:30.417] Info: UniverseServer: Finding starter world
+[14:06:30.418] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[14:06:30.575] Info: UniverseServer: Starting UniverseServer with UUID: f53348a1384999b0cebd16c7bf878b07
+[14:06:30.580] Info: UniverseServer: Logged in player 'Teica' locally
+[14:06:30.580] Info: UniverseServer: Logged in account '<anonymous>' as player 'Teica' from address local
+[14:06:30.659] Info: UniverseServer: Reviving player at CelestialWorld:843699991:-231787319:-284486835:8:4
+[14:06:30.659] Info: UniverseClient: Joined server as client 1
+[14:06:30.669] Info: Creating default Star::Configuration
+[14:06:30.669] Info: Creating default Star::Configuration
+[14:06:30.681] Info: Renderer initialized
+[14:06:30.870] Info: UniverseServer: Client 'Teica' <1> (local) connected
+[14:06:31.019] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:06:41.336] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[14:06:41.442] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:13:43.211] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:13:43.779] Info: Client received world stop packet, leaving: Removed
+[14:13:47.999] Info: Client received world stop packet, leaving: Removed
+[14:13:58.087] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[14:13:58.191] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:25:01.812] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:25:02.368] Info: Client received world stop packet, leaving: Removed
+[14:25:05.401] Info: Client received world stop packet, leaving: Removed
+[14:25:15.475] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[14:25:15.579] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:27:30.963] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:27:31.537] Info: Client received world stop packet, leaving: Removed
+[14:27:41.559] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[14:27:41.662] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[14:28:37.780] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[14:28:38.037] Info: Client received world stop packet, leaving: Removed
+[14:28:48.104] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[14:28:48.212] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:33:46.347] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:33:46.802] Info: Client received world stop packet, leaving: Removed
+[14:33:56.830] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[14:33:56.934] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[14:52:07.371] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[14:52:07.619] Info: Client received world stop packet, leaving: Removed
+[14:52:17.675] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[14:52:17.780] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:55:25.104] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:55:25.739] Info: Client received world stop packet, leaving: Removed
+[14:55:29.011] Info: Client received world stop packet, leaving: Removed
+[14:55:38.999] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[14:55:39.114] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:57:33.606] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:57:34.140] Info: Client received world stop packet, leaving: Removed
+[14:57:38.369] Info: Client received world stop packet, leaving: Removed
+[14:57:48.443] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[14:57:48.553] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:59:04.470] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[14:59:05.067] Info: Client received world stop packet, leaving: Removed
+[14:59:08.617] Info: Client received world stop packet, leaving: Removed
+[14:59:18.686] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[14:59:18.791] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:00:23.792] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:00:24.377] Info: Client received world stop packet, leaving: Removed
+[15:00:29.760] Info: Client received world stop packet, leaving: Removed
+[15:00:39.846] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[15:00:39.951] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:01:23.532] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:01:24.143] Info: Client received world stop packet, leaving: Removed
+[15:01:28.291] Info: Client received world stop packet, leaving: Removed
+[15:01:38.364] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[15:01:38.471] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:03:10.813] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:03:11.375] Info: Client received world stop packet, leaving: Removed
+[15:03:17.121] Info: Client received world stop packet, leaving: Removed
+[15:03:27.137] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[15:03:27.242] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:07:36.495] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:07:37.024] Info: Client received world stop packet, leaving: Removed
+[15:07:47.059] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[15:07:47.163] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[15:08:04.158] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[15:08:04.389] Info: Client received world stop packet, leaving: Removed
+[15:08:14.425] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[15:08:14.528] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:14:27.014] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:14:27.583] Info: Client received world stop packet, leaving: Removed
+[15:14:34.300] Info: Client received world stop packet, leaving: Removed
+[15:14:44.269] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[15:14:44.373] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:26:03.147] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:26:03.686] Info: Client received world stop packet, leaving: Removed
+[15:26:13.700] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[15:26:13.804] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[15:27:14.986] Info: UniverseServer: Creating celestial world 843699991:-231787319:-284486835:12 
+[15:27:15.232] Info: Placing dungeon ancientgateway
+[15:27:15.232] Info: Generating dungeon ancientgateway (NOT FORCED)
+[15:27:15.237] Info: Placing dungeon at (41, 500)
+[15:27:15.348] Info: Protected dungeonIds for world set to (0)
+[15:27:25.643] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[15:27:25.748] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[15:27:52.623] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[15:27:52.776] Info: Client received world stop packet, leaving: Removed
+[15:28:02.855] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[15:28:02.959] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:28:16.913] Info: UniverseServer: Creating temporary world file for world UniqueWorld:outpost
+[15:28:16.913] Info: UniverseServer: Creating temporary unique world 'outpost'
+[15:28:16.917] Info: Placing dungeon outpost
+[15:28:16.917] Info: Generating dungeon outpost (NOT FORCED)
+[15:28:16.989] Info: Placing dungeon at (233, 500)
+[15:28:18.563] Info: Protected dungeonIds for world set to (0)
+[15:28:19.040] Info: Client received world stop packet, leaving: Removed
+[15:28:29.120] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[15:28:29.225] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[15:28:56.677] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[15:28:56.805] Info: Client received world stop packet, leaving: Removed
+[15:29:06.233] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:29:06.564] Info: Client received world stop packet, leaving: Removed
+[15:29:06.585] Error: Could not load  asset, using placeholder default.
+(AssetException) Path '' must be absolute
+[15:29:06.786] Info: UniverseServer: Stopping world UniqueWorld:outpost due to inactivity
+[15:29:06.889] Info: UniverseServer: World thread has stopped due to inactivity, removing world UniqueWorld:outpost
+[15:29:16.641] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[15:29:16.746] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[15:29:17.906] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[15:29:28.134] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[15:29:28.135] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[15:30:42.005] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[15:30:42.255] Info: Client received world stop packet, leaving: Removed
+[15:30:52.316] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[15:30:52.420] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:35:57.272] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:35:57.852] Info: Client received world stop packet, leaving: Removed
+[15:36:07.880] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[15:36:07.985] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[15:36:15.299] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[15:36:25.445] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[15:36:25.550] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[15:36:53.377] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[15:36:53.526] Info: Client received world stop packet, leaving: Removed
+[15:37:03.547] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[15:37:03.549] Info: UniverseServer: Loading temporary unique world outpost
+[15:37:03.669] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:37:03.844] Info: Client received world stop packet, leaving: Removed
+[15:37:13.857] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[15:37:13.963] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[15:38:18.177] Info: Chat: <server> Admin privileges now given to player Teica
+[15:38:21.227] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:38:21.889] Info: Client received world stop packet, leaving: Removed
+[15:38:21.920] Error: Could not load  asset, using placeholder default.
+(AssetException) Path '' must be absolute
+[15:38:26.424] Info: Chat: <server> Admin privileges taken away from Teica
+[15:38:31.887] Info: UniverseServer: Stopping world UniqueWorld:outpost due to inactivity
+[15:38:31.991] Info: UniverseServer: World thread has stopped due to inactivity, removing world UniqueWorld:outpost
+[15:43:56.412] Info: UniverseServer: Creating celestial world 843699991:-231787319:-284486835:2 
+[15:44:07.302] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:2 due to inactivity
+[15:44:07.406] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:2
+[15:48:15.337] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:2 
+[15:48:15.561] Info: Client received world stop packet, leaving: Removed
+[15:48:22.749] Warn: Failed to place dungeon object: castledungeondoor direction: 0 position: (254, 1121)
+[15:48:22.749] Warn: Failed to place dungeon object: castledungeondoor direction: 0 position: (268, 1121)
+[15:48:25.701] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[15:48:25.804] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:48:32.071] Info: UniverseServer: Expiring temporary world UniqueWorld:outpost
+[15:50:04.073] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:50:04.705] Info: Client received world stop packet, leaving: Removed
+[15:50:08.600] Info: Client received world stop packet, leaving: Removed
+[15:50:18.624] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[15:50:18.735] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:50:53.840] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:50:54.491] Info: Client received world stop packet, leaving: Removed
+[15:51:04.497] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:2 due to inactivity
+[15:51:04.603] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:2
+[15:53:54.087] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:2 
+[15:53:54.352] Info: Client received world stop packet, leaving: Removed
+[15:54:04.373] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[15:54:04.477] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:54:54.363] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:54:54.948] Info: Client received world stop packet, leaving: Removed
+[15:54:57.925] Info: Client received world stop packet, leaving: Removed
+[15:55:07.912] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[15:55:08.015] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:55:08.771] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[15:55:09.168] Info: Client received world stop packet, leaving: Removed
+[15:55:19.221] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:2 due to inactivity
+[15:55:19.326] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:2
+[15:56:21.504] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:2 
+[15:56:21.740] Info: Client received world stop packet, leaving: Removed
+[15:56:31.803] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[15:56:31.910] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:06:00.557] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:06:01.195] Info: Client received world stop packet, leaving: Removed
+[16:06:11.214] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:2 due to inactivity
+[16:06:11.318] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:2
+[16:10:15.650] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:2 
+[16:10:15.861] Info: Client received world stop packet, leaving: Removed
+[16:10:26.132] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[16:10:26.237] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:15:58.376] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:15:58.905] Info: Client received world stop packet, leaving: Removed
+[16:16:02.387] Info: Client received world stop packet, leaving: Removed
+[16:16:12.418] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[16:16:12.522] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:17:13.332] Warn: Failed to place dungeon object: midjar1 direction: 0 position: (3919, 742)
+[16:31:02.702] Warn: Failed to place dungeon object: midjar1 direction: 0 position: (3726, 419)
+[16:32:32.039] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:32:32.724] Info: Client received world stop packet, leaving: Removed
+[16:32:42.721] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:2 due to inactivity
+[16:32:42.825] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:2
+[16:33:11.036] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:2 
+[16:33:11.360] Info: Client received world stop packet, leaving: Removed
+[16:33:21.381] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[16:33:21.484] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:37:54.694] Warn: Failed to place dungeon object: midjar1 direction: 0 position: (303, 448)
+[16:44:49.976] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:44:50.651] Info: Client received world stop packet, leaving: Removed
+[16:45:00.691] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:2 due to inactivity
+[16:45:00.794] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:2
+[16:45:01.085] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[16:45:11.277] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[16:45:11.377] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[16:45:51.323] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[16:45:51.478] Info: Client received world stop packet, leaving: Removed
+[16:46:01.332] Info: UniverseServer: Creating temporary world file for world UniqueWorld:outpost
+[16:46:01.333] Info: UniverseServer: Creating temporary unique world 'outpost'
+[16:46:01.337] Info: Placing dungeon outpost
+[16:46:01.338] Info: Generating dungeon outpost (NOT FORCED)
+[16:46:01.418] Info: Placing dungeon at (233, 500)
+[16:46:01.540] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[16:46:01.644] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:46:03.236] Info: Protected dungeonIds for world set to (0)
+[16:46:03.722] Info: Client received world stop packet, leaving: Removed
+[16:46:13.779] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[16:46:13.883] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[16:46:37.761] Info: Chat: <server> Admin privileges now given to player Teica
+[16:46:40.495] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:46:41.312] Info: Client received world stop packet, leaving: Removed
+[16:46:45.723] Info: Chat: <server> Admin privileges taken away from Teica
+[16:46:51.254] Info: UniverseServer: Stopping world UniqueWorld:outpost due to inactivity
+[16:46:51.356] Info: UniverseServer: World thread has stopped due to inactivity, removing world UniqueWorld:outpost
+[16:49:05.409] Info: UniverseServer: Creating temporary world file for world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[16:49:05.409] Info: UniverseServer: Creating temporary mission world 'MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079'
+[16:49:05.435] Info: Placing dungeon lunarbase
+[16:49:05.436] Info: Generating dungeon lunarbase (NOT FORCED)
+[16:49:05.674] Info: Placing dungeon at (233, 1000)
+[16:49:09.001] Warn: Failed to place dungeon object: lunarbasecrate direction: 1 position: (784, 918)
+[16:49:09.004] Warn: Failed to place dungeon object: lunarbasecrate direction: 1 position: (784, 921)
+[16:49:09.032] Warn: Failed to place dungeon object: prisonfloodlight direction: 0 position: (635, 933)
+[16:49:09.050] Warn: Failed to place dungeon object: miningdoor direction: 0 position: (772, 948)
+[16:49:09.487] Warn: Dungeon wire endpoint not found. (564, 617)
+[16:49:09.487] Warn: Dungeon wire endpoint not found. (568, 619)
+[16:49:09.487] Warn: Dungeon wires did not make a circuit.
+[16:49:09.487] Warn: Dungeon wire endpoint not found. (921, 759)
+[16:49:09.487] Warn: Dungeon wire endpoint not found. (938, 770)
+[16:49:09.487] Warn: Dungeon wire endpoint not found. (941, 770)
+[16:49:09.487] Warn: Dungeon wire endpoint not found. (943, 770)
+[16:49:09.487] Warn: Dungeon wires did not make a circuit.
+[16:49:09.487] Warn: Dungeon wire endpoint not found. (587, 654)
+[16:49:09.487] Warn: Dungeon wires did not make a circuit.
+[16:49:09.488] Warn: Dungeon wire endpoint not found. (588, 654)
+[16:49:09.488] Warn: Dungeon wires did not make a circuit.
+[16:49:09.488] Warn: Dungeon wire endpoint not found. (585, 655)
+[16:49:09.488] Warn: Dungeon wires did not make a circuit.
+[16:49:09.489] Warn: Dungeon wire endpoint not found. (761, 830)
+[16:49:09.489] Warn: Dungeon wire endpoint not found. (764, 830)
+[16:49:09.490] Warn: Dungeon wire endpoint not found. (1033, 907)
+[16:49:09.490] Warn: Dungeon wire endpoint not found. (1042, 907)
+[16:49:09.492] Warn: Dungeon wire endpoint not found. (778, 992)
+[16:49:09.492] Warn: Dungeon wire endpoint not found. (785, 992)
+[16:49:09.492] Warn: Dungeon wire endpoint not found. (792, 992)
+[16:49:09.635] Info: Protected dungeonIds for world set to (0)
+[16:49:10.431] Info: Client received world stop packet, leaving: Removed
+[16:49:19.478] Info: Chat: <server> Admin privileges now given to player Teica
+[16:49:20.516] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[16:49:20.620] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:49:22.665] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:49:23.356] Info: Client received world stop packet, leaving: Removed
+[16:49:33.366] Info: UniverseServer: Stopping world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079 due to inactivity
+[16:49:33.470] Info: UniverseServer: World thread has stopped due to inactivity, removing world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[16:49:42.547] Info: UniverseServer: Loading temporary mission world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[16:49:42.862] Info: Client received world stop packet, leaving: Removed
+[16:49:52.947] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[16:49:53.051] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:51:24.279] Info: Chat: <server> Admin privileges taken away from Teica
+[16:53:33.481] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:53:34.152] Info: Client received world stop packet, leaving: Removed
+[16:53:44.133] Info: UniverseServer: Stopping world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079 due to inactivity
+[16:53:44.235] Info: UniverseServer: World thread has stopped due to inactivity, removing world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[16:54:10.911] Info: UniverseServer: Loading temporary mission world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[16:54:11.235] Info: Client received world stop packet, leaving: Removed
+[16:54:21.316] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[16:54:21.425] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:55:16.309] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:55:16.948] Info: Client received world stop packet, leaving: Removed
+[16:55:23.016] Info: Client received world stop packet, leaving: Removed
+[16:55:33.108] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[16:55:33.117] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[16:56:51.403] Info: UniverseServer: Expiring temporary world UniqueWorld:outpost
+[17:03:46.149] Info: Switching target to 570 from {1: 570}
+[17:03:48.774] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:03:49.607] Info: Client received world stop packet, leaving: Removed
+[17:03:55.171] Info: Client received world stop packet, leaving: Removed
+[17:04:05.195] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[17:04:05.304] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:05:37.784] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:05:38.481] Info: Client received world stop packet, leaving: Removed
+[17:05:48.482] Info: UniverseServer: Stopping world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079 due to inactivity
+[17:05:48.585] Info: UniverseServer: World thread has stopped due to inactivity, removing world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[17:06:28.942] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[17:06:39.216] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[17:06:39.320] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[17:07:06.370] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[17:07:06.599] Info: Client received world stop packet, leaving: Removed
+[17:07:16.645] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[17:07:16.752] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:08:20.937] Info: Chat: <server> Admin privileges now given to player Teica
+[17:13:04.645] Info: Chat: <server> Admin privileges taken away from Teica
+[17:13:15.304] Info: Chat: <server> Admin privileges now given to player Teica
+[17:13:18.433] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:13:18.976] Info: Client received world stop packet, leaving: Removed
+[17:13:19.041] Error: Could not load  asset, using placeholder default.
+(AssetException) Path '' must be absolute
+[17:13:29.044] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[17:13:29.150] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[17:13:29.407] Info: UniverseServer: Loading temporary mission world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[17:13:29.731] Info: Client received world stop packet, leaving: Removed
+[17:13:39.746] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[17:13:39.849] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:16:40.034] Info: Chat: Gravity set to 0.1, the change is LOCAL ONLY
+[17:16:51.849] Info: Chat: Gravity set to 1, the change is LOCAL ONLY
+[17:17:00.467] Info: Chat: <server> No such command resetgrivity
+[17:17:43.368] Info: Chat: <server> Admin privileges taken away from Teica
+[17:18:46.529] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:18:47.180] Info: Client received world stop packet, leaving: Removed
+[17:18:53.822] Info: Client received world stop packet, leaving: Removed
+[17:19:03.848] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[17:19:03.949] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:20:12.849] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:20:13.505] Info: Client received world stop packet, leaving: Removed
+[17:20:23.525] Info: UniverseServer: Stopping world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079 due to inactivity
+[17:20:23.629] Info: UniverseServer: World thread has stopped due to inactivity, removing world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[17:20:32.654] Info: UniverseServer: Loading temporary mission world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[17:20:32.868] Info: Client received world stop packet, leaving: Removed
+[17:20:42.907] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[17:20:43.016] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:21:50.500] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:21:51.134] Info: Client received world stop packet, leaving: Removed
+[17:21:55.921] Info: Chat: <server> Admin privileges now given to player Teica
+[17:21:58.795] Info: Client received world stop packet, leaving: Removed
+[17:22:08.771] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[17:22:08.874] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:24:03.693] Info: Chat: <server> Admin privileges taken away from Teica
+[17:26:05.359] Info: Switching target to 446 from {1: 446}
+[17:26:07.853] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:26:08.505] Info: Client received world stop packet, leaving: Removed
+[17:26:18.606] Info: UniverseServer: Stopping world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079 due to inactivity
+[17:26:18.706] Info: UniverseServer: World thread has stopped due to inactivity, removing world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[17:31:38.511] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[17:31:38.734] Info: Client received world stop packet, leaving: Removed
+[17:31:48.719] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[17:31:48.822] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:36:18.801] Info: UniverseServer: Expiring temporary world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[17:44:29.051] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:44:29.708] Info: Client received world stop packet, leaving: Removed
+[17:44:39.791] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[17:44:39.893] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[17:46:32.075] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[17:46:42.209] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[17:46:42.315] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[17:47:09.580] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[17:47:09.693] Info: Client received world stop packet, leaving: Removed
+[17:47:19.419] Info: UniverseServer: Creating temporary world file for world UniqueWorld:outpost
+[17:47:19.419] Info: UniverseServer: Creating temporary unique world 'outpost'
+[17:47:19.424] Info: Placing dungeon outpost
+[17:47:19.424] Info: Generating dungeon outpost (NOT FORCED)
+[17:47:19.498] Info: Placing dungeon at (233, 500)
+[17:47:19.731] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[17:47:19.836] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[17:47:21.513] Info: Protected dungeonIds for world set to (0)
+[17:47:21.703] Info: Client received world stop packet, leaving: Removed
+[17:47:31.699] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[17:47:31.806] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[18:42:19.467] Info: Chat: <server> Admin privileges now given to player Teica
+[18:42:22.375] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[18:42:23.075] Info: Client received world stop packet, leaving: Removed
+[18:42:23.115] Error: Could not load  asset, using placeholder default.
+(AssetException) Path '' must be absolute
+[18:42:33.093] Info: UniverseServer: Stopping world UniqueWorld:outpost due to inactivity
+[18:42:33.196] Info: UniverseServer: World thread has stopped due to inactivity, removing world UniqueWorld:outpost
+[18:43:01.567] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[18:43:01.737] Info: Client received world stop packet, leaving: Removed
+[18:43:09.290] Info: Chat: <server> Admin privileges taken away from Teica
+[18:43:11.783] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[18:43:11.888] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[18:43:16.560] Info: UniverseServer: Loading temporary unique world outpost
+[18:43:16.711] Info: Client received world stop packet, leaving: Removed
+[18:43:26.702] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[18:43:26.806] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[18:44:20.501] Info: Chat: <server> Admin privileges now given to player Teica
+[18:44:23.317] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[18:44:23.990] Info: Client received world stop packet, leaving: Removed
+[18:44:27.905] Info: Chat: <server> Admin privileges taken away from Teica
+[18:44:33.980] Info: UniverseServer: Stopping world UniqueWorld:outpost due to inactivity
+[18:44:34.085] Info: UniverseServer: World thread has stopped due to inactivity, removing world UniqueWorld:outpost
+[18:47:58.779] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[18:47:58.923] Info: Client received world stop packet, leaving: Removed
+[18:48:08.962] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[18:48:09.067] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[18:48:09.452] Info: UniverseServer: Loading temporary unique world outpost
+[18:48:09.578] Info: Client received world stop packet, leaving: Removed
+[18:48:19.609] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[18:48:19.711] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[18:48:53.322] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[18:48:58.327] Info: Writing Star::Configuration to './../giraffe_storage/starbound.config'
+[18:49:41.123] Error: Could not instantiate item '[signdispenser, 1, {}]'. (ItemException) No such item 'signdispenser'
+[18:52:03.118] Info: Chat: <server> Admin privileges now given to player Teica
+[18:52:05.615] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[18:52:06.358] Info: Client received world stop packet, leaving: Removed
+[18:52:11.735] Info: Chat: <server> Admin privileges taken away from Teica
+[18:52:16.407] Info: UniverseServer: Stopping world UniqueWorld:outpost due to inactivity
+[18:52:16.510] Info: UniverseServer: World thread has stopped due to inactivity, removing world UniqueWorld:outpost
+[18:52:36.744] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[18:52:46.984] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[18:52:47.089] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[18:53:34.257] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[18:53:34.477] Info: Client received world stop packet, leaving: Removed
+[18:53:44.521] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[18:53:44.628] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[18:54:39.491] Info: Chat: <server> Admin privileges now given to player Teica
+[18:54:45.764] Info: Chat: <server> It's just a jump to the left...
+[18:54:54.003] Info: Chat: <server> It's just a jump to the left...
+[18:54:57.672] Info: Chat: <server> It's just a jump to the left...
+[18:55:01.146] Info: Chat: <server> It's just a jump to the left...
+[18:55:06.487] Info: Chat: <server> It's just a jump to the left...
+[18:55:12.541] Info: Chat: <server> It's just a jump to the left...
+[18:55:22.592] Info: Chat: <server> It's just a jump to the left...
+[18:55:25.729] Info: Chat: <server> It's just a jump to the left...
+[18:58:46.636] Info: Renderer destroyed
+[18:58:46.638] Info: UniverseClient: Client disconnecting...
+[18:58:46.684] Info: Client received world stop packet, leaving: Removed
+[18:58:46.684] Info: UniverseServer: Client 'Teica' <1> (local) disconnected
+[18:58:46.787] Info: UniverseServer: Stopping UniverseServer
+[18:58:47.113] Info: Renderer initialized
+[07:42:48.140] Info: Renderer destroyed
+[07:42:48.167] Info: UniverseServer: Acquiring universe lock file
+[07:42:48.168] Info: UniverseServer: Loading settings
+[07:42:48.169] Info: UniverseServer: Finding starter world
+[07:42:48.169] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[07:42:48.334] Info: UniverseServer: Starting UniverseServer with UUID: f53348a1384999b0cebd16c7bf878b07
+[07:42:48.341] Info: UniverseServer: Logged in player 'Teica' locally
+[07:42:48.341] Info: UniverseServer: Logged in account '<anonymous>' as player 'Teica' from address local
+[07:42:48.423] Info: UniverseServer: Reviving player at CelestialWorld:843699991:-231787319:-284486835:8:4
+[07:42:48.423] Info: UniverseClient: Joined server as client 1
+[07:42:48.434] Info: Creating default Star::Configuration
+[07:42:48.434] Info: Creating default Star::Configuration
+[07:42:48.449] Info: Renderer initialized
+[07:42:48.662] Info: UniverseServer: Client 'Teica' <1> (local) connected
+[07:42:48.879] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[07:42:55.112] Info: Client received world stop packet, leaving: Removed
+[07:43:05.163] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[07:43:05.268] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[07:43:43.009] Info: UniverseServer: Creating celestial world 843699991:-231787319:-284486835:2:5 
+[07:43:43.046] Info: Placing dungeon naturalcave
+[07:43:43.046] Info: Generating dungeon naturalcave (NOT FORCED)
+[07:43:43.049] Info: Placing dungeon at (182, 900)
+[07:43:55.068] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:2:5 due to inactivity
+[07:43:55.170] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:2:5
+[07:44:26.335] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:2:5 
+[07:44:26.661] Info: Client received world stop packet, leaving: Removed
+[07:44:36.742] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[07:44:36.845] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[07:48:25.130] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[07:48:25.791] Info: Client received world stop packet, leaving: Removed
+[07:48:35.809] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:2:5 due to inactivity
+[07:48:35.914] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:2:5
+[07:48:45.909] Info: UniverseServer: Creating celestial world 843699991:-231787319:-284486835:3 
+[07:48:56.974] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:3 due to inactivity
+[07:48:57.078] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:3
+[07:49:24.499] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:3 
+[07:49:24.824] Info: Client received world stop packet, leaving: Removed
+[07:49:34.872] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[07:49:34.977] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[07:49:35.603] Info: Chat: <server> It's just a jump to the left...
+[07:49:39.696] Info: Chat: <server> It's just a jump to the left...
+[07:49:42.317] Info: Chat: <server> It's just a jump to the left...
+[07:49:43.999] Info: Chat: <server> It's just a jump to the left...
+[07:49:46.803] Info: Chat: <server> It's just a jump to the left...
+[07:49:55.863] Info: Chat: <server> It's just a jump to the left...
+[07:51:34.345] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[07:51:35.006] Info: Client received world stop packet, leaving: Removed
+[07:51:35.045] Error: Could not load  asset, using placeholder default.
+(AssetException) Path '' must be absolute
+[07:51:45.049] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:3 due to inactivity
+[07:51:45.149] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:3
+[07:51:46.928] Info: Chat: <server> Admin privileges taken away from Teica
+[07:51:58.997] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[07:52:09.132] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[07:52:09.236] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[07:52:40.582] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[07:52:40.742] Info: Client received world stop packet, leaving: Removed
+[07:52:50.538] Info: UniverseServer: Creating temporary world file for world UniqueWorld:outpost
+[07:52:50.539] Info: UniverseServer: Creating temporary unique world 'outpost'
+[07:52:50.544] Info: Placing dungeon outpost
+[07:52:50.544] Info: Generating dungeon outpost (NOT FORCED)
+[07:52:50.615] Info: Placing dungeon at (233, 500)
+[07:52:50.743] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[07:52:50.848] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[07:52:52.580] Info: Protected dungeonIds for world set to (0)
+[07:52:53.105] Info: Client received world stop packet, leaving: Removed
+[07:53:03.108] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[07:53:03.212] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[07:53:53.115] Info: Chat: <server> Admin privileges now given to player Teica
+[07:53:55.815] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[07:53:56.490] Info: Client received world stop packet, leaving: Removed
+[07:54:01.671] Info: Chat: <server> Admin privileges taken away from Teica
+[07:54:06.479] Info: UniverseServer: Stopping world UniqueWorld:outpost due to inactivity
+[07:54:06.584] Info: UniverseServer: World thread has stopped due to inactivity, removing world UniqueWorld:outpost
+[07:56:34.410] Info: Chat: <server> Insufficient priviledges to spawn items.
+[07:56:37.023] Info: Chat: <server> Admin privileges now given to player Teica
+[07:56:50.280] Info: Chat: <server> Admin privileges taken away from Teica
+[07:56:52.251] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[07:56:52.365] Info: Client received world stop packet, leaving: Removed
+[07:57:02.410] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[07:57:02.514] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[07:57:05.197] Info: UniverseServer: Loading temporary unique world outpost
+[07:57:05.344] Info: Client received world stop packet, leaving: Removed
+[07:57:15.388] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[07:57:15.492] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[08:01:41.559] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[08:01:41.690] Info: Client received world stop packet, leaving: Removed
+[08:01:49.057] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:01:49.394] Info: Client received world stop packet, leaving: Removed
+[08:01:51.694] Info: UniverseServer: Stopping world UniqueWorld:outpost due to inactivity
+[08:01:51.795] Info: UniverseServer: World thread has stopped due to inactivity, removing world UniqueWorld:outpost
+[08:01:59.446] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[08:01:59.550] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[08:03:21.249] Info: Chat: <server> Admin privileges now given to player Teica
+[08:04:03.567] Info: Chat: <server> Admin privileges taken away from Teica
+[08:04:25.483] Info: Chat: <server> Admin privileges now given to player Teica
+[08:04:37.328] Info: Chat: <server> Admin privileges taken away from Teica
+[08:05:47.721] Info: UniverseServer: Creating temporary world file for world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[08:05:47.721] Info: UniverseServer: Creating temporary mission world 'MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079'
+[08:05:47.729] Info: Placing dungeon lunarbase
+[08:05:47.729] Info: Generating dungeon lunarbase (NOT FORCED)
+[08:05:47.952] Info: Placing dungeon at (233, 1000)
+[08:05:51.301] Warn: Failed to place dungeon object: lunarbasecrate direction: 1 position: (784, 918)
+[08:05:51.305] Warn: Failed to place dungeon object: lunarbasecrate direction: 1 position: (784, 921)
+[08:05:51.323] Warn: Failed to place dungeon object: prisonfloodlight direction: 0 position: (635, 933)
+[08:05:51.330] Warn: Failed to place dungeon object: miningdoor direction: 0 position: (772, 948)
+[08:05:51.658] Warn: Dungeon wire endpoint not found. (564, 617)
+[08:05:51.658] Warn: Dungeon wire endpoint not found. (568, 619)
+[08:05:51.658] Warn: Dungeon wires did not make a circuit.
+[08:05:51.658] Warn: Dungeon wire endpoint not found. (921, 759)
+[08:05:51.658] Warn: Dungeon wire endpoint not found. (938, 770)
+[08:05:51.658] Warn: Dungeon wire endpoint not found. (941, 770)
+[08:05:51.658] Warn: Dungeon wire endpoint not found. (943, 770)
+[08:05:51.658] Warn: Dungeon wires did not make a circuit.
+[08:05:51.658] Warn: Dungeon wire endpoint not found. (587, 654)
+[08:05:51.658] Warn: Dungeon wires did not make a circuit.
+[08:05:51.658] Warn: Dungeon wire endpoint not found. (588, 654)
+[08:05:51.658] Warn: Dungeon wires did not make a circuit.
+[08:05:51.658] Warn: Dungeon wire endpoint not found. (585, 655)
+[08:05:51.658] Warn: Dungeon wires did not make a circuit.
+[08:05:51.659] Warn: Dungeon wire endpoint not found. (761, 830)
+[08:05:51.659] Warn: Dungeon wire endpoint not found. (764, 830)
+[08:05:51.660] Warn: Dungeon wire endpoint not found. (1033, 907)
+[08:05:51.660] Warn: Dungeon wire endpoint not found. (1042, 907)
+[08:05:51.662] Warn: Dungeon wire endpoint not found. (778, 992)
+[08:05:51.662] Warn: Dungeon wire endpoint not found. (785, 992)
+[08:05:51.662] Warn: Dungeon wire endpoint not found. (792, 992)
+[08:05:51.793] Info: Protected dungeonIds for world set to (0)
+[08:05:52.035] Info: Client received world stop packet, leaving: Removed
+[08:06:02.037] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[08:06:02.141] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:07:51.374] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:07:51.951] Info: Client received world stop packet, leaving: Removed
+[08:08:00.334] Info: Client received world stop packet, leaving: Removed
+[08:08:10.320] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[08:08:10.422] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:09:20.706] Info: Renderer destroyed
+[08:09:20.732] Info: UniverseClient: Client disconnecting...
+[08:09:20.783] Info: Client received world stop packet, leaving: Removed
+[08:09:20.784] Info: UniverseServer: Client 'Teica' <1> (local) disconnected
+[08:09:20.886] Info: UniverseServer: Stopping UniverseServer
+[08:09:21.190] Info: Renderer initialized
+[08:46:13.118] Info: Renderer destroyed
+[08:46:13.134] Info: UniverseServer: Acquiring universe lock file
+[08:46:13.135] Info: UniverseServer: Loading settings
+[08:46:13.136] Info: UniverseServer: Finding starter world
+[08:46:13.136] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:8:4 
+[08:46:13.255] Info: UniverseServer: Starting UniverseServer with UUID: f53348a1384999b0cebd16c7bf878b07
+[08:46:13.260] Info: UniverseServer: Logged in player 'Teica' locally
+[08:46:13.261] Info: UniverseServer: Logged in account '<anonymous>' as player 'Teica' from address local
+[08:46:13.314] Info: UniverseServer: Player revive position has expired, spawning at ship
+[08:46:13.315] Info: UniverseClient: Joined server as client 1
+[08:46:13.326] Info: Creating default Star::Configuration
+[08:46:13.326] Info: Creating default Star::Configuration
+[08:46:13.341] Info: Renderer initialized
+[08:46:13.525] Info: UniverseServer: Client 'Teica' <1> (local) connected
+[08:46:13.526] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:46:13.841] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[08:46:23.353] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:8:4 due to inactivity
+[08:46:23.456] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:8:4
+[08:46:23.933] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[08:46:24.036] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[08:47:07.965] Info: UniverseServer: Creating temporary world file for world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[08:47:07.965] Info: UniverseServer: Creating temporary mission world 'MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079'
+[08:47:07.974] Info: Placing dungeon lunarbase
+[08:47:07.974] Info: Generating dungeon lunarbase (NOT FORCED)
+[08:47:08.207] Info: Placing dungeon at (233, 1000)
+[08:47:11.961] Warn: Failed to place dungeon object: lunarbasecrate direction: 1 position: (784, 918)
+[08:47:11.966] Warn: Failed to place dungeon object: lunarbasecrate direction: 1 position: (784, 921)
+[08:47:11.989] Warn: Failed to place dungeon object: prisonfloodlight direction: 0 position: (635, 933)
+[08:47:12.001] Warn: Failed to place dungeon object: miningdoor direction: 0 position: (772, 948)
+[08:47:12.488] Warn: Dungeon wire endpoint not found. (564, 617)
+[08:47:12.488] Warn: Dungeon wire endpoint not found. (568, 619)
+[08:47:12.488] Warn: Dungeon wires did not make a circuit.
+[08:47:12.488] Warn: Dungeon wire endpoint not found. (921, 759)
+[08:47:12.488] Warn: Dungeon wire endpoint not found. (938, 770)
+[08:47:12.488] Warn: Dungeon wire endpoint not found. (941, 770)
+[08:47:12.488] Warn: Dungeon wire endpoint not found. (943, 770)
+[08:47:12.488] Warn: Dungeon wires did not make a circuit.
+[08:47:12.488] Warn: Dungeon wire endpoint not found. (587, 654)
+[08:47:12.488] Warn: Dungeon wires did not make a circuit.
+[08:47:12.488] Warn: Dungeon wire endpoint not found. (588, 654)
+[08:47:12.489] Warn: Dungeon wires did not make a circuit.
+[08:47:12.489] Warn: Dungeon wire endpoint not found. (585, 655)
+[08:47:12.489] Warn: Dungeon wires did not make a circuit.
+[08:47:12.490] Warn: Dungeon wire endpoint not found. (761, 830)
+[08:47:12.490] Warn: Dungeon wire endpoint not found. (764, 830)
+[08:47:12.491] Warn: Dungeon wire endpoint not found. (1033, 907)
+[08:47:12.491] Warn: Dungeon wire endpoint not found. (1042, 907)
+[08:47:12.493] Warn: Dungeon wire endpoint not found. (778, 992)
+[08:47:12.493] Warn: Dungeon wire endpoint not found. (785, 992)
+[08:47:12.493] Warn: Dungeon wire endpoint not found. (792, 992)
+[08:47:12.674] Info: Protected dungeonIds for world set to (0)
+[08:47:12.981] Info: Client received world stop packet, leaving: Removed
+[08:47:23.034] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[08:47:23.147] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:47:57.205] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:47:57.873] Info: Client received world stop packet, leaving: Removed
+[08:48:02.467] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[08:48:02.603] Info: Client received world stop packet, leaving: Removed
+[08:48:07.886] Info: UniverseServer: Stopping world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079 due to inactivity
+[08:48:07.991] Info: UniverseServer: World thread has stopped due to inactivity, removing world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[08:48:12.652] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[08:48:12.757] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:48:23.647] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:48:24.292] Info: Client received world stop packet, leaving: Removed
+[08:48:32.551] Info: UniverseServer: Loading temporary mission world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[08:48:32.894] Info: Client received world stop packet, leaving: Removed
+[08:48:34.281] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[08:48:34.284] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[08:48:42.958] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[08:48:42.962] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:53:11.096] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:53:11.786] Info: Client received world stop packet, leaving: Removed
+[08:53:18.937] Info: Client received world stop packet, leaving: Removed
+[08:53:28.974] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[08:53:29.078] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:55:12.821] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[08:55:13.499] Info: Client received world stop packet, leaving: Removed
+[08:55:19.405] Info: Client received world stop packet, leaving: Removed
+[08:55:29.448] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[08:55:29.458] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:01:17.459] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:01:18.129] Info: Client received world stop packet, leaving: Removed
+[09:01:24.627] Info: Client received world stop packet, leaving: Removed
+[09:01:34.682] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[09:01:34.786] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:02:05.896] Info: Chat: <server> Admin privileges now given to player Teica
+[09:05:03.101] Info: Chat: <server> Admin privileges taken away from Teica
+[09:05:07.265] Info: Chat: <server> Admin privileges now given to player Teica
+[09:05:29.871] Info: Client received world stop packet, leaving: Removed
+[09:05:29.875] Info: Chat: <server> Lets do the space warp again
+[09:05:33.818] Info: Chat: <server> Admin privileges taken away from Teica
+[09:06:14.467] Info: Switching target to 888 from {1: 888}
+[09:06:17.083] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:06:18.112] Info: Client received world stop packet, leaving: Removed
+[09:06:23.789] Info: Client received world stop packet, leaving: Removed
+[09:06:33.806] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[09:06:33.809] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:06:47.130] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:06:47.559] Info: Client received world stop packet, leaving: Removed
+[09:06:52.248] Info: Client received world stop packet, leaving: Removed
+[09:07:02.292] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[09:07:02.404] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:07:28.440] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:07:29.219] Info: Client received world stop packet, leaving: Removed
+[09:07:34.310] Info: Client received world stop packet, leaving: Removed
+[09:07:44.343] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[09:07:44.355] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:08:27.996] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:08:28.703] Info: Client received world stop packet, leaving: Removed
+[09:08:38.708] Info: UniverseServer: Stopping world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079 due to inactivity
+[09:08:38.813] Info: UniverseServer: World thread has stopped due to inactivity, removing world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[09:08:54.439] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[09:08:54.596] Info: Client received world stop packet, leaving: Removed
+[09:09:04.628] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[09:09:04.732] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:09:04.913] Info: UniverseServer: Creating temporary world file for world UniqueWorld:outpost
+[09:09:04.913] Info: UniverseServer: Creating temporary unique world 'outpost'
+[09:09:04.916] Info: Placing dungeon outpost
+[09:09:04.916] Info: Generating dungeon outpost (NOT FORCED)
+[09:09:04.988] Info: Placing dungeon at (233, 500)
+[09:09:07.050] Info: Protected dungeonIds for world set to (0)
+[09:09:07.578] Info: Client received world stop packet, leaving: Removed
+[09:09:17.670] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[09:09:17.774] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[09:09:55.102] Info: Chat: <server> Admin privileges now given to player Teica
+[09:10:18.092] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:10:18.765] Info: Client received world stop packet, leaving: Removed
+[09:10:28.756] Info: UniverseServer: Stopping world UniqueWorld:outpost due to inactivity
+[09:10:28.859] Info: UniverseServer: World thread has stopped due to inactivity, removing world UniqueWorld:outpost
+[09:11:15.946] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[09:11:16.058] Info: Client received world stop packet, leaving: Removed
+[09:11:24.796] Info: UniverseServer: Loading temporary unique world outpost
+[09:11:24.942] Info: Client received world stop packet, leaving: Removed
+[09:11:26.081] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[09:11:26.185] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:11:34.965] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[09:11:35.068] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[09:11:36.179] Info: Chat: <server> Admin privileges taken away from Teica
+[09:13:31.256] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[09:13:31.366] Info: Client received world stop packet, leaving: Removed
+[09:13:41.359] Info: UniverseServer: Stopping world UniqueWorld:outpost due to inactivity
+[09:13:41.463] Info: UniverseServer: World thread has stopped due to inactivity, removing world UniqueWorld:outpost
+[09:13:41.612] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:13:42.050] Info: Client received world stop packet, leaving: Removed
+[09:13:52.104] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[09:13:52.209] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[09:16:23.200] Info: UniverseServer: Loading celestial world 843699991:-231787319:-284486835:12 
+[09:16:23.368] Info: Client received world stop packet, leaving: Removed
+[09:16:33.413] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[09:16:33.518] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:16:54.268] Info: UniverseServer: Loading temporary unique world outpost
+[09:16:54.414] Info: Client received world stop packet, leaving: Removed
+[09:17:04.402] Info: UniverseServer: Stopping world CelestialWorld:843699991:-231787319:-284486835:12 due to inactivity
+[09:17:04.509] Info: UniverseServer: World thread has stopped due to inactivity, removing world CelestialWorld:843699991:-231787319:-284486835:12
+[09:18:34.439] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:18:35.118] Info: Client received world stop packet, leaving: Removed
+[09:18:38.821] Info: UniverseServer: Expiring temporary world MissionWorld:lunarbase-c509aeb0c6465a434044717ff7435079
+[09:18:45.106] Info: UniverseServer: Stopping world UniqueWorld:outpost due to inactivity
+[09:18:45.211] Info: UniverseServer: World thread has stopped due to inactivity, removing world UniqueWorld:outpost
+[09:19:04.956] Info: UniverseServer: Loading temporary unique world outpost
+[09:19:05.129] Info: Client received world stop packet, leaving: Removed
+[09:19:15.190] Info: UniverseServer: Stopping world ClientShipWorld:c509aeb0c6465a434044717ff7435079 due to inactivity
+[09:19:15.295] Info: UniverseServer: World thread has stopped due to inactivity, removing world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:20:06.392] Info: UniverseServer: Loading client ship world ClientShipWorld:c509aeb0c6465a434044717ff7435079
+[09:20:07.131] Info: Client received world stop packet, leaving: Removed
+[09:20:17.117] Info: UniverseServer: Stopping world UniqueWorld:outpost due to inactivity
+[09:20:17.222] Info: UniverseServer: World thread has stopped due to inactivity, removing world UniqueWorld:outpost
+[09:21:42.688] Info: Renderer destroyed
+[09:21:42.690] Info: UniverseClient: Client disconnecting...
+[09:21:42.796] Info: Client received world stop packet, leaving: Removed
+[09:21:42.878] Info: UniverseServer: Client 'Teica' <1> (local) disconnected
+[09:21:42.980] Info: UniverseServer: Stopping UniverseServer
+[09:21:43.085] Info: Renderer initialized
+[09:21:44.895] Info: Renderer destroyed
+[09:21:44.895] Info: Application quitting!
+[09:21:44.895] Info: Client shutdown gracefully
+[09:21:44.980] Info: Shutting down Star::Root

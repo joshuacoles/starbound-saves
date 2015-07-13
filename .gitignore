@@ -1,0 +1,6 @@
+assets/
+.DS_Store
+*.swp
+linux*
+osx
+win*
